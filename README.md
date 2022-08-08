@@ -10,3 +10,5 @@ Website traffic refers to web users who visit a website. Web traffic is measured
 - [sklearn](https://scikit-learn.org/stable/)
 - [tensorflow](https://www.tensorflow.org/)
 - [keras](https://keras.io/)
+  
+ please refer to the notebook for detailed project
